@@ -1,0 +1,39 @@
+Temp Password-imfpassword1234
+
+Sec token-02374343
+
+sec to-86411780
+
+90063685
+
+65569998
+
+Rules:
+Department rule
+vendor rule 
+HR rule 
+outhz rule
+Sync rule - summaya 
+
+Rules :
+
+For R
+
+ 
+
+R -
+
+ 
+
+ 
+ A:
+ 
+ case 1 : when employee class != contigent worked  
+ case 2 : when employee class = contigent worked  
+ 
+ S:
+ 
+ deprovision all access
+ 
+ T : 
+ Disable account in saviynt(Inactive in saviynt)
